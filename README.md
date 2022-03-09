@@ -7,3 +7,5 @@ See discussions at:
 - https://github.com/ethers-io/ethers.js/discussions/2602#discussioncomment-2312150
 
 Adapted from standalone example at https://github.com/NomicFoundation/hardhat/issues/2248#issuecomment-1062215698
+
+Uses Node.js 14.18.3, yarn 1.22.17. To run example: `yarn example`.

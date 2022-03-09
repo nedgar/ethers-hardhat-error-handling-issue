@@ -1,0 +1,16 @@
+{
+  "name": "ethers-hardhat-error-handling-issue",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/nedgar/ethers-hardhat-error-handling-issue.git",
+  "author": "Nick Edgar <n.a.edgar@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "example": "npx hardhat run example.js --no-compile --network mainnet"
+  },
+  "dependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "ethers": "^5.5.4",
+    "hardhat": "^2.9.1"
+  }
+}
